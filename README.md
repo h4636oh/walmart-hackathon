@@ -46,8 +46,8 @@ Our end-to-end solution not only reduces human error but also boosts delivery sp
 ## Installation
 
 - Install MongoDB locally on you device: [Official MongoDB Guide](https://www.mongodb.com/docs/manual/installation/)
-- Git clone this repo: `git clone https://github.com/h4636oh/walmart-hackathon`
-- Change directory: `cd walmart-hackathon`
+- Git clone this repo: ```git clone https://github.com/h4636oh/walmart-hackathon```
+- Change directory: ```cd walmart-hackathon```
 
 ### Backend
 
