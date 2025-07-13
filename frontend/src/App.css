@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-nord-polarNight-0: #2e3440;
+  --color-nord-polarNight-1: #3b4252;
+  --color-nord-polarNight-2: #434c5e;
+  --color-nord-polarNight-3: #4c566a;
+  --color-nord-snowStorm-0: #d8dee9;
+  --color-nord-snowStorm-1: #e5e9f0;
+  --color-nord-snowStorm-2: #eceff4;
+  --color-nord-frost-0: #8fbcbb;
+  --color-nord-frost-1: #88c0d0;
+  --color-nord-frost-2: #81a1c1;
+  --color-nord-frost-3: #5e81ac;
+  --color-nord-aurora-red: #bf616a;
+  --color-nord-aurora-orange: #d08770;
+  --color-nord-aurora-yellow: #ebcb8b;
+  --color-nord-aurora-green: #a3be8c;
+  --color-nord-aurora-pink: #b48ead;
+}
