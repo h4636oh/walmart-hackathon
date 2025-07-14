@@ -1,12 +1,16 @@
-# Project Submitted for Sparkathon a Walmart hackathon
+# Package Placing Optimization Platform - Project Submitted for Sparkathon a Walmart hackathon
 
-## Problem Statement - Transforming retail supply chains: From inventory management to last-mile delivery
+## Problem Theme
 
-Submitted for Sparkathon by Walmart, our project presents a smart logistics solution that streamlines package loading, transportation, and unloading. By optimizing space, weight distribution, and handling, it enhances operational efficiency and reduces time and effort across the supply chain.
+Transforming retail supply chains: From inventory management to last-mile delivery
+
+## Problem Statement
+
+Our project presents a smart logistics solution that streamlines package loading and unloading. By optimizing space, weight distribution, and handling, it enhances operational efficiency and reduces time and effort across the supply chain.
 
 ## Demo Video
 
-[![Watch the demo](./media/demo-thumbnail.png)](https://www.youtube.com/watch?v=YOUR_DEMO_VIDEO_LINK)
+[![Watch the demo](./media/thumbnail.png)](https://www.youtube.com/watch?v=YOUR_DEMO_VIDEO_LINK)
 
 ## What we are solving?
 
