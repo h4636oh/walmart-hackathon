@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+htmlcov/
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# VSCode settings
+.vscode/
+
+# macOS & Linux
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pydantic cache
+__pydantic_cache__/
+
+# MongoDB artifacts (optional if generated during local dev)
+*.bson
+*.json~
+
+# FastAPI static/docs (if auto-generated and not manually edited)
+static/docs/
+
+# Frontend (if included in same repo)
+frontend/node_modules/
+frontend/dist/
+
