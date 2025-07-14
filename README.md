@@ -75,6 +75,6 @@ Our end-to-end solution not only reduces human error but also boosts delivery sp
 
 ## Team
 
-- **[Priyanka More](https://github.com/Mpriyanka)**: Backend Developer
+- **[Priyanka More](https://github.com/Mpriynka)**: Backend Developer
 - **[Richa Thakwani](https://github.com/ricgir)**: Backend Developer
 - **[Deepanshu Choudhary](https://github.com/h4636oh)**: Frontend Developer
