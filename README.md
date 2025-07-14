@@ -41,7 +41,7 @@ Our end-to-end solution not only reduces human error but also boosts delivery sp
 
 ## Work Flow
 
-![Work Flow Overview](./media/workflow.png)
+![Work Flow Overview](./media/flowchart.png)
 
 ## Installation
 
