@@ -32,7 +32,7 @@ We developed an intelligent packing and logistics assistant that automates and o
 Here's how our solution works:
 
 - **Box Optimization Algorithm**: Places packages in containers based on weight, dimensions, fragility, and customer priority, maximizing space utilization.
-- **Smart Categorization**: Groups packages by delivery priority and fragility to ensure safe and efficient unloading.
+- **Efficient Loading and Unloading**: Groups packages by delivery priority and fragility to ensure safe and efficient unloading.
 - **Visual Interface**: Provides a user-friendly interface for visualizing the packed container and tracking package layers.
 - **Automation Ready**: Our system can integrate with warehouse bots or manual systems to streamline operations from warehouse to last-mile delivery.
 - **Built with**: Python, FastAPI, React, and MongoDB for robust backend logic, responsive frontend, and real-time data handling.
@@ -70,11 +70,11 @@ Our end-to-end solution not only reduces human error but also boosts delivery sp
 
 ## Development Repositories
 
-- Frontend Repo: `https://github.com/h4636oh/walmart-hackathon-frontend`
-- Backend Repo: `https://github.com/h4636oh/walmart-hackathon-backend`
+- Frontend Repo: [h4636oh/walmart-hackathon-frontend](https://github.com/h4636oh/walmart-hackathon-frontend)
+- Backend Repo: [h4636oh/walmart-hackathon-backend](https://github.com/h4636oh/walmart-hackathon-backend)
 
 ## Team
 
-- **[Priyanka More](https://github.com/Mpriyanka)**: Backend Developer
+- **[Priyanka More](https://github.com/Mpriynka)**: Backend Developer
 - **[Richa Thakwani](https://github.com/ricgir)**: Backend Developer
 - **[Deepanshu Choudhary](https://github.com/h4636oh)**: Frontend Developer
