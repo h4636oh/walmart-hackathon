@@ -46,23 +46,28 @@ Our end-to-end solution not only reduces human error but also boosts delivery sp
 ## Installation
 
 - Install MongoDB locally on you device: [Official MongoDB Guide](https://www.mongodb.com/docs/manual/installation/)
-- Git clone this repo: ```git clone https://github.com/h4636oh/walmart-hackathon```
-- Change directory: ```cd walmart-hackathon```
+- Git clone this repo: `git clone https://github.com/h4636oh/walmart-hackathon`
+- Change directory: `cd walmart-hackathon`
 
 ### Backend
 
-- Change directory: ```cd backend```
-- Create and enter into virtual enviornment: ```python -m venv venv; source ./venv/bin/activate```
-- Install dependencies: ```pip install -r requirements.txt```
-- Run Server: ```python main.py```
+- Change directory: `cd backend`
+- Create and enter into virtual enviornment: `python -m venv venv; source ./venv/bin/activate`
+- Install dependencies: `pip install -r requirements.txt`
+- Run Server: `python main.py`
 
 ### Frontend
 
-- Change directory: ```cd frontend```
-- Install dependencies: ```npm i```
-- Run development version: ```npm run dev```
-- Create build version: ```npm run build```
-- Run build version: ```npm run preview```
+- Change directory: `cd frontend`
+- Install dependencies: `npm i`
+- Run development version: `npm run dev`
+- Create build version: `npm run build`
+- Run build version: `npm run preview`
+
+## Development Repositories
+
+- Frontend Repo: `https://github.com/h4636oh/walmart-hackathon-frontend`
+- Backend Repo: `https://github.com/h4636oh/walmart-hackathon-backend`
 
 ## Team
 
