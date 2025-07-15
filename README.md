@@ -10,7 +10,7 @@ Our project presents a smart logistics solution that streamlines package loading
 
 ## Demo Video
 
-[![Watch the demo](./media/thumbnail.png)](https://www.youtube.com/watch?v=YOUR_DEMO_VIDEO_LINK)
+[![Watch the demo](./media/thumbnail.png)](https://www.youtube.com/watch?v=1_5SaFz1hEc)
 
 ## What we are solving?
 
